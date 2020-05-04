@@ -86,7 +86,7 @@ Corpus data samples and experimental data sets are usually annotated manually. H
 
 ### Course project schedule
 
-* May 25. Research pre-registration. You have to submit preliminary version of the paper that includes first three part of the research: a hypothesis, research design and description of data collection method. This paper will be assessed and you will recieve feedback that should be addressed in the final version.
+* May 20. Research pre-registration. You have to submit preliminary version of the paper that includes first three part of the research: a hypothesis, research design and description of data collection method. This paper will be assessed and you will recieve feedback that should be addressed in the final version.
 * June 10. Final paper submission.
 * June 10-30. Oral presentation (10 min presentation, 5 min questions). Exam date to be assigned by the office.
 
